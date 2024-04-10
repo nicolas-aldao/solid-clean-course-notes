@@ -3,7 +3,6 @@
   type Gender = "M" | "F";
 
   // Alto Acoplamiento
-
   class Person {
     constructor(
       public name: string,

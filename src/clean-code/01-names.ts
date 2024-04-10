@@ -23,8 +23,6 @@
   class User {}
   interface User {}
 
-  // Todo: Tarea
-
   // día de hoy - today
   const today = new Date();
 
