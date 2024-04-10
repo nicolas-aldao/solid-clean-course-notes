@@ -6,7 +6,7 @@ import {
   Volvo,
   Vehicle,
   Ford,
-} from "./liskov-b-solution";
+} from "./liskov-solution-b";
 
 (() => {
   const printCarSeats = (cars: Vehicle[]) => {
